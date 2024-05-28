@@ -13,7 +13,7 @@ Hey! I'm Abdirizack, a frontend developer proficient in React, JavaScript, HTML,
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn]
+ For a quick response, DM me on INSTAGRAM https://www.instagram.com/dollars_poi?igsh=NjBqMTR6aG1tMzh4
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imraac) 
 
