@@ -1,24 +1,24 @@
-Hey! I'm Abdirizack, a frontend developer proficient in React, JavaScript, HTML, CSS, and Python.
 
+LinkedIn Badge Twitter Badge
+Hi there 👋
 
-## 📦 Toolbox
+👩‍💻 About Me :
+I am a Full Stack Developer  from Nairobi, Kenya.
 
-- Frontend Development: React JS, HTML, CSS  
-- Version Control: Git, GitLab, Bitbucket  
-- Professional Development:
-  - Ongoing learning in PHP  
-  - Ongoing learning in MySQL
-   
-- Testing: Postman  
+🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-## 📫 Contact
+✳️ I am also working as a Technical Mentor and Trainer, inspiring and growing aspiring software engineers.
 
- For a quick response, DM me on 
- 
-[![Instagram]https://www.instagram.com/dollars_poi?igsh=NjBqMTR6aG1tMzh4
+🌱 Exploring Technical Content Writing and Vlogging.
 
+⚡ In my free time, I solve problems on Codewars and Hacker Rank and read tech articles.
 
+📫How to reach me: Linkedin Badge
 
- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) [](https://icons8.com/icon/20909/html-5)                      ![CSS3](https://img.icons8.com/color/48/000000/css3.png) [](https://icons8.com/icon/20906/css3)
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [](https://icons8.com/icon/20907/javascript)               ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) [](https://icons8.com/icon/99865/bootstrap)
- ![React.js](https://img.icons8.com/color/48/000000/react-native.png) [](https://icons8.com/icon/45168/react-native)
+🛠️ Languages and Tools :
+React  Material UI  Redux   CSS  HTML  JavaScript  MySQL  NodeJS  AWS  Python 
+🔥 My Stats :
+GitHub Streak
+
+Top Langs
+INSTAGRAM https://www.instagram.com/dollars_poi?igsh=NjBqMTR6aG1tMzh4
