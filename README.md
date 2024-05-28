@@ -2,6 +2,7 @@
 LinkedIn Badge Twitter Badge
 Hi there 👋
 
+
 👩‍💻 About Me :
 I am a Full Stack Developer  from Nairobi, Kenya.
 
@@ -14,6 +15,8 @@ I am a Full Stack Developer  from Nairobi, Kenya.
 ⚡ In my free time, I solve problems on Codewars and Hacker Rank and read tech articles.
 
 📫How to reach me: Linkedin Badge
+
+https://streak-stats.demolab.com/demo/?user=ABDIRIZACK1&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background
 
 🛠️ Languages and Tools :
 React  Material UI  Redux   CSS  HTML  JavaScript  MySQL  NodeJS  AWS  Python 
