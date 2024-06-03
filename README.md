@@ -1,27 +1,25 @@
-
-LinkedIn Badge Twitter Badge
-Hi there 👋
+Hey! I'm Abdirizac, a Web Developer developer proficient in React, JavaScript, HTML, CSS, and Python.
 
 
-👩‍💻 About Me :
-I am a Full Stack Developer  from Nairobi, Kenya.
+## 📦 Toolbox
 
-🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- *Frontend Development:* React JS, HTML, CSS  
+- *Version Control:* Git,  
+- *Professional Development:* 
+  - Ongoing learning in MySQL
+   
+- *Testing:* Postman  
 
-✳️ I am also working as a Technical Mentor and Trainer, inspiring and growing aspiring software engineers.
+## 📫 Contact
 
-🌱 Exploring Technical Content Writing and Vlogging.
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mustafe-abdi-72a1bb2bb/?trk=contact-info/)
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http_matanka_sufyan) 
 
-⚡ In my free time, I solve problems on Codewars and Hacker Rank and read tech articles.
 
-📫How to reach me: Linkedin Badge
 
-https://streak-stats.demolab.com/demo/?user=ABDIRIZACK1&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background
 
-🛠️ Languages and Tools :
-React  Material UI  Redux   CSS  HTML  JavaScript  MySQL  NodeJS  AWS  Python 
-🔥 My Stats :
-GitHub Streak
 
-Top Langs
-INSTAGRAM https://www.instagram.com/dollars_poi?igsh=NjBqMTR6aG1tMzh4
+ ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) [](https://icons8.com/icon/20909/html-5)                      ![CSS3](https://img.icons8.com/color/48/000000/css3.png) [](https://icons8.com/icon/20906/css3)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [](https://icons8.com/icon/20907/javascript)               ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) [](https://icons8.com/icon/99865/bootstrap)
+ ![React.js](https://img.icons8.com/color/48/000000/react-native.png) [](https://icons8.com/icon/45168/react-native)
